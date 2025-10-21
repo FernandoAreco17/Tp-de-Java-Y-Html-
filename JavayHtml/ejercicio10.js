@@ -1,0 +1,1 @@
+alert("Página vacía, error de carga")
